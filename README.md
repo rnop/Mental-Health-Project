@@ -1,4 +1,5 @@
 ## Mental Health in the Tech Industry
+Tableau Visualization: https://public.tableau.com/app/profile/ronnie.nop/viz/MentalHealthProject_16378022215940/Dashboard1
 
 ### Introduction
 Mental health encompasses our emotional and psychological well-being that influences the way we perceive and behave to the environment around us. Some of us are stressed, overworked, struggling with new environments, or afraid of uncertainty. But thinking proactively about mental health can help improve your experiences and overall well-being. Having positive mental health will allow you to unlock your full potential and allow you to work effectively against the challenges that await you in life.
